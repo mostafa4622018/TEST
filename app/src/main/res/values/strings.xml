@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Json In Android Studio</string>
+    <string name="get">GET</string>
+    <string name="fetched_text_here">Fetched text here</string>
+    <string name="email">EMAIL</string>
+    <string name="username">USERNAME</string>
+    <string name="refresh">Refresh</string>
+</resources>
